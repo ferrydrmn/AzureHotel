@@ -1,0 +1,27 @@
+.blue-button {
+    padding: 6px;
+    background-color: #48dbfb;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.blue-button:hover{
+    background-color: #0abde3;
+}
+
+.green-button {
+    padding: 6px;
+    background-color: #1dd1a1;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.green-button:hover {
+    background-color: #10ac84;
+}

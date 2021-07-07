@@ -1,0 +1,30 @@
+.sidebar {
+    flex-shrink: 0;
+    background-color: white;
+    width: 20%;
+    height: 100vh;
+}
+
+.sidebar ul li {
+    padding: 20px;
+    transition: 0.3s
+}
+
+.sidebar ul li:hover {
+    border-left: 10px solid#0abde3; 
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;   
+}
+
+.logout-sidebar {
+    transition: 0.3s;
+}   
+
+.logout-sidebar:hover {
+    border-left: 10px solid red !important;
+}
+
